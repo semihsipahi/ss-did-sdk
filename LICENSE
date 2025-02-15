@@ -1,0 +1,7 @@
+### 1. **Versiyonlama ve Etiketleme**
+
+SDK'yı yayınlamak için sürüm numarasını güncellemelisin. Genellikle, ilk sürümü `1.0.0` olarak başlatabilirsin.
+
+```bash
+npm version 1.0.0
+```
